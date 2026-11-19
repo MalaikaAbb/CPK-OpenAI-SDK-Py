@@ -1,0 +1,48 @@
+/* The CSS page's three `globals.css` prose blocks, verbatim. Harness: they are
+ * loaded only by this demo route (not the harness's real globals.css), but
+ * they are global selectors, so once loaded they apply to every tab of this
+ * demo, including the Halcyon one. */
+
+/* ── doc: CSS prose block "globals.css" — v2 tokens (verbatim) ── */
+[data-copilotkit] {
+  --primary: oklch(0.55 0.22 264); /* accent / action color */
+  --primary-foreground: oklch(0.99 0 0); /* text on primary */
+  --background: oklch(1 0 0); /* surface background */
+  --foreground: oklch(0.145 0 0); /* primary text */
+  --muted: oklch(0.97 0 0); /* subtle backgrounds */
+  --border: oklch(0.922 0 0); /* dividers, outlines */
+  --radius: 0.625rem; /* global corner radius */
+}
+
+/* Dark mode is keyed off a `.dark` ancestor */
+.dark [data-copilotkit] {
+  --background: oklch(0.145 0 0);
+  --foreground: oklch(0.985 0 0);
+  --border: oklch(0.269 0 0);
+}
+/* ── end doc ── */
+
+/* ── doc: CSS prose block "globals.css" — class names (verbatim) ── */
+.copilotKitButton {
+  border-radius: 0;
+}
+
+.copilotKitMessages {
+  padding: 2rem;
+}
+
+.copilotKitUserMessage {
+  background: #007AFF;
+}
+/* ── end doc ── */
+
+/* ── doc: CSS prose block "globals.css" — fonts (verbatim; note the whole
+ *    stack is one quoted family name, so it never falls back to sans-serif) ── */
+.copilotKitMessages {
+  font-family: "Arial, sans-serif";
+}
+
+.copilotKitInput {
+  font-family: "Arial, sans-serif";
+}
+/* ── end doc ── */

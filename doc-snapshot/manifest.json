@@ -1,0 +1,674 @@
+{
+  "schema": 1,
+  "docsRoot": "https://docs.copilotkit.ai/openai-agents-python",
+  "syncedAt": "2026-11-12T17:29:49.419Z",
+  "pages": {
+    "/generative-ui/components/standard-catalog": {
+      "file": "generative-ui__components__standard-catalog.md",
+      "sha256": "22931afe11151bc955fd4bf49f557f284ba74c52a5e58e863aafb9daaaee51d2",
+      "bytes": 16103,
+      "lines": 238,
+      "routes": [
+        "/generative-ui/components/standard-catalog"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:50 GMT"
+    },
+    "/openai-agents-python": {
+      "file": "openai-agents-python.md",
+      "sha256": "9b8a19744b19e75109583939b0aefa51d56cccefb84fb74ec86c19bdce628215",
+      "bytes": 7447,
+      "lines": 228,
+      "routes": [
+        "/",
+        "/doc-sync"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:50 GMT"
+    },
+    "/openai-agents-python/custom-look-and-feel/css": {
+      "file": "openai-agents-python__custom-look-and-feel__css.md",
+      "sha256": "a0c92df84213dba4453dfd2c613b9169078c63b02e8f528ebe72549bc76cb03e",
+      "bytes": 10214,
+      "lines": 301,
+      "routes": [
+        "/custom-look-and-feel/css"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:50 GMT"
+    },
+    "/openai-agents-python/custom-look-and-feel/headless-ui": {
+      "file": "openai-agents-python__custom-look-and-feel__headless-ui.md",
+      "sha256": "06c427357364f616af9f134249902ab4442649468becffdeccf60069ae344bbd",
+      "bytes": 13661,
+      "lines": 363,
+      "routes": [
+        "/custom-look-and-feel/headless-ui"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:50 GMT"
+    },
+    "/openai-agents-python/custom-look-and-feel/markdown": {
+      "file": "openai-agents-python__custom-look-and-feel__markdown.md",
+      "sha256": "a3960786a500f833358f666eda3756d9fabf08ab3e5fa623995ad3661a547d0a",
+      "bytes": 5856,
+      "lines": 159,
+      "routes": [
+        "/custom-look-and-feel/markdown"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:50 GMT"
+    },
+    "/openai-agents-python/custom-look-and-feel/reasoning-messages": {
+      "file": "openai-agents-python__custom-look-and-feel__reasoning-messages.md",
+      "sha256": "43ea8cc3a3e8dcb599cfe13e16aed14c12bab3ea55deeedd312ff7bbbc12ae08",
+      "bytes": 7377,
+      "lines": 262,
+      "routes": [
+        "/custom-look-and-feel/reasoning-messages"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:50 GMT"
+    },
+    "/openai-agents-python/custom-look-and-feel/slots": {
+      "file": "openai-agents-python__custom-look-and-feel__slots.md",
+      "sha256": "4d87e528315d57a0a17e28b044bccb69f4ce881d4eb2bf09abb1db9fbd37d147",
+      "bytes": 8361,
+      "lines": 278,
+      "routes": [
+        "/custom-look-and-feel/slots"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:50 GMT"
+    },
+    "/openai-agents-python/frontend-tools": {
+      "file": "openai-agents-python__frontend-tools.md",
+      "sha256": "54417ab5f3815ab19caabab07a86cd3ccdc6ecec71f213e6551ae3d2e4d81d39",
+      "bytes": 6352,
+      "lines": 177,
+      "routes": [
+        "/frontend-tools"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:50 GMT"
+    },
+    "/openai-agents-python/generative-ui/a2ui/dynamic-schema": {
+      "file": "openai-agents-python__generative-ui__a2ui__dynamic-schema.md",
+      "sha256": "0c143b09612e448165e01a8305d3d3802cca7b04b7bc925f2236e6fc7b4938f4",
+      "bytes": 23139,
+      "lines": 689,
+      "routes": [
+        "/generative-ui/a2ui/dynamic-schema"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:50 GMT"
+    },
+    "/openai-agents-python/generative-ui/a2ui/fixed-schema": {
+      "file": "openai-agents-python__generative-ui__a2ui__fixed-schema.md",
+      "sha256": "94ffd0472fa6682d176ec476e955065347b324799a4d4febdfa41d045b3edce2",
+      "bytes": 18840,
+      "lines": 543,
+      "routes": [
+        "/generative-ui/a2ui/fixed-schema"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:50 GMT"
+    },
+    "/openai-agents-python/generative-ui/components": {
+      "file": "openai-agents-python__generative-ui__components.md",
+      "sha256": "87e32ceb2b3b82c3d5b2c0be066183cd9eaf69841e7b4adf0b07a683a6043ca8",
+      "bytes": 33693,
+      "lines": 795,
+      "routes": [
+        "/generative-ui/components"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:50 GMT"
+    },
+    "/openai-agents-python/generative-ui/components/catalogs": {
+      "file": "openai-agents-python__generative-ui__components__catalogs.md",
+      "sha256": "0ad6f9233493aafb243dd7dc5579029a6474975840983869b58fc58a6e4e0ceb",
+      "bytes": 23845,
+      "lines": 520,
+      "routes": [
+        "/generative-ui/components/catalogs"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:50 GMT"
+    },
+    "/openai-agents-python/generative-ui/components/from-a2ui": {
+      "file": "openai-agents-python__generative-ui__components__from-a2ui.md",
+      "sha256": "d9e2ef104f6acabaed32a0e625935b4dfed0130852115dd46be1cc59e9822648",
+      "bytes": 16744,
+      "lines": 279,
+      "routes": [
+        "/generative-ui/components/from-a2ui"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:50 GMT"
+    },
+    "/openai-agents-python/generative-ui/components/markdown-mode": {
+      "file": "openai-agents-python__generative-ui__components__markdown-mode.md",
+      "sha256": "b5239a4e1e9ed31fcac811ad0258444fc93475e40710ac75810a8c35414696e9",
+      "bytes": 8765,
+      "lines": 188,
+      "routes": [
+        "/generative-ui/components/markdown-mode"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:50 GMT"
+    },
+    "/openai-agents-python/generative-ui/components/state-and-actions": {
+      "file": "openai-agents-python__generative-ui__components__state-and-actions.md",
+      "sha256": "79add855f1a9af1aa70b52779b20c18979402f14b4376268b5b1612567fb05a3",
+      "bytes": 23529,
+      "lines": 556,
+      "routes": [
+        "/generative-ui/components/state-and-actions"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:50 GMT"
+    },
+    "/openai-agents-python/generative-ui/components/surfaces": {
+      "file": "openai-agents-python__generative-ui__components__surfaces.md",
+      "sha256": "39a0edb411762546e0b740f71b5808c591e65c36bb2e3828691d0bf9c013fefc",
+      "bytes": 21296,
+      "lines": 427,
+      "routes": [
+        "/generative-ui/components/surfaces"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:50 GMT"
+    },
+    "/openai-agents-python/generative-ui/components/theming": {
+      "file": "openai-agents-python__generative-ui__components__theming.md",
+      "sha256": "df61ee78eed1f41153fad71812f2009e8d8812bf51de41b820dfe00efac3b117",
+      "bytes": 6812,
+      "lines": 203,
+      "routes": [
+        "/generative-ui/components/theming"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:51 GMT"
+    },
+    "/openai-agents-python/generative-ui/components/transports": {
+      "file": "openai-agents-python__generative-ui__components__transports.md",
+      "sha256": "b2caf366cfb1ec90d06a897a4061d9cda75675ffe40b4b4c0ab5d8cc08297ab6",
+      "bytes": 5168,
+      "lines": 139,
+      "routes": [
+        "/generative-ui/components/transports"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:51 GMT"
+    },
+    "/openai-agents-python/generative-ui/hashbrown": {
+      "file": "openai-agents-python__generative-ui__hashbrown.md",
+      "sha256": "9824b332b45b4e1e64f51e420adcde5d4a9bab92a5653a8b97750680a63c58c7",
+      "bytes": 12007,
+      "lines": 353,
+      "routes": [
+        "/generative-ui/hashbrown"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:51 GMT"
+    },
+    "/openai-agents-python/generative-ui/json-render": {
+      "file": "openai-agents-python__generative-ui__json-render.md",
+      "sha256": "8c5a5594404009a412049f121975a192b0a40461646b678f7e77c98bfe339045",
+      "bytes": 9793,
+      "lines": 264,
+      "routes": [
+        "/generative-ui/json-render"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:51 GMT"
+    },
+    "/openai-agents-python/generative-ui/mcp-apps": {
+      "file": "openai-agents-python__generative-ui__mcp-apps.md",
+      "sha256": "4b503445990a2d706eb2d6ecab2756c628895ef0856ab849fe098260966fdfc1",
+      "bytes": 8459,
+      "lines": 237,
+      "routes": [
+        "/generative-ui/mcp-apps"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:51 GMT"
+    },
+    "/openai-agents-python/generative-ui/open-generative-ui": {
+      "file": "openai-agents-python__generative-ui__open-generative-ui.md",
+      "sha256": "3adf6ebae773b5b6d23af841f9e6602e54336e1a4b02e437c0be41b1ebc7e1f5",
+      "bytes": 11696,
+      "lines": 296,
+      "routes": [
+        "/generative-ui/open-generative-ui"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:51 GMT"
+    },
+    "/openai-agents-python/generative-ui/reasoning": {
+      "file": "openai-agents-python__generative-ui__reasoning.md",
+      "sha256": "92457cd81ee6cb58e275e007c76ae1aa20dfb7407ab95c9f3db3df7cb170f3ab",
+      "bytes": 5780,
+      "lines": 180,
+      "routes": [
+        "/generative-ui/reasoning"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:51 GMT"
+    },
+    "/openai-agents-python/generative-ui/state-rendering": {
+      "file": "openai-agents-python__generative-ui__state-rendering.md",
+      "sha256": "6fd6c1875210c0eb3906a52ab80c7d3711a13b32e6b61a69c14c8450278c9b1e",
+      "bytes": 6922,
+      "lines": 171,
+      "routes": [
+        "/generative-ui/state-rendering"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:51 GMT"
+    },
+    "/openai-agents-python/generative-ui/tool-based": {
+      "file": "openai-agents-python__generative-ui__tool-based.md",
+      "sha256": "0743bc4e6593dcfd6fea64be8f44c00d62ae2875c88818e0e2ed5308c9a57b3c",
+      "bytes": 6298,
+      "lines": 169,
+      "routes": [
+        "/generative-ui/tool-based"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:51 GMT"
+    },
+    "/openai-agents-python/generative-ui/tool-rendering": {
+      "file": "openai-agents-python__generative-ui__tool-rendering.md",
+      "sha256": "44fd3f28b67f9ddfb01aa7aa88ab584f4f1b2b031b3933aef9cad72b7566b973",
+      "bytes": 14244,
+      "lines": 459,
+      "routes": [
+        "/generative-ui/tool-rendering"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:51 GMT"
+    },
+    "/openai-agents-python/headless-threads": {
+      "file": "openai-agents-python__headless-threads.md",
+      "sha256": "daba6e9631911c4210ceb1ca5735a38e56fa91a2e37c3ca8e32a454f69a14a38",
+      "bytes": 11890,
+      "lines": 251,
+      "routes": [
+        "/headless-threads"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:51 GMT"
+    },
+    "/openai-agents-python/human-in-the-loop/governed-actions": {
+      "file": "openai-agents-python__human-in-the-loop__governed-actions.md",
+      "sha256": "c3ffbf2aa5a8b697765c47f5668c9ac1f3608ae778728bb504b77c18a995214b",
+      "bytes": 7168,
+      "lines": 256,
+      "routes": [
+        "/human-in-the-loop/governed-actions"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:51 GMT"
+    },
+    "/openai-agents-python/human-in-the-loop/headless": {
+      "file": "openai-agents-python__human-in-the-loop__headless.md",
+      "sha256": "e044a58694ca83fd61eca64714451c5292d0e8098f78c16d2eadde20dd70f012",
+      "bytes": 2185,
+      "lines": 66,
+      "routes": [
+        "/human-in-the-loop/headless"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:51 GMT"
+    },
+    "/openai-agents-python/human-in-the-loop/index": {
+      "file": "openai-agents-python__human-in-the-loop__index.md",
+      "sha256": "ac2be5ccba956962c17679e150aade3f0511ffc53a907c0d3d90c6d30924f078",
+      "bytes": 11381,
+      "lines": 336,
+      "routes": [
+        "/human-in-the-loop"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:51 GMT"
+    },
+    "/openai-agents-python/human-in-the-loop/useInterrupt": {
+      "file": "openai-agents-python__human-in-the-loop__useInterrupt.md",
+      "sha256": "ad8b82a1aeefdc8a19c23358aec3edc7bdc931feacd28654149ff99379b2b3cb",
+      "bytes": 5639,
+      "lines": 160,
+      "routes": [
+        "/human-in-the-loop/useInterrupt"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:51 GMT"
+    },
+    "/openai-agents-python/multi-agent/subagents": {
+      "file": "openai-agents-python__multi-agent__subagents.md",
+      "sha256": "1eff70deab7bd5d0ea6751f8bffb9fd582f1d13211e5fedd89e009a4ffc5a5e9",
+      "bytes": 17117,
+      "lines": 491,
+      "routes": [
+        "/multi-agent/subagents"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:51 GMT"
+    },
+    "/openai-agents-python/multimodal-attachments": {
+      "file": "openai-agents-python__multimodal-attachments.md",
+      "sha256": "0f30c04eb9353fdf6bee52d3bca85553072ce3e810debc37ce0b109e2e30d2cf",
+      "bytes": 7092,
+      "lines": 197,
+      "routes": [
+        "/multimodal-attachments"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:51 GMT"
+    },
+    "/openai-agents-python/prebuilt-components/chat": {
+      "file": "openai-agents-python__prebuilt-components__chat.md",
+      "sha256": "3967c28a2fdb97a0d981875b5355bc9594bff23a4c5b1dc9df23eac1767187e1",
+      "bytes": 3340,
+      "lines": 88,
+      "routes": [
+        "/prebuilt-components/chat"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:52 GMT"
+    },
+    "/openai-agents-python/prebuilt-components/chat-controls": {
+      "file": "openai-agents-python__prebuilt-components__chat-controls.md",
+      "sha256": "0afab318c4e7e395dc59aa9b804fc398818bfb5959a6b975d3214da06bc49ba6",
+      "bytes": 6645,
+      "lines": 163,
+      "routes": [
+        "/prebuilt-components/chat-controls"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:52 GMT"
+    },
+    "/openai-agents-python/prebuilt-components/copilot-threads-drawer": {
+      "file": "openai-agents-python__prebuilt-components__copilot-threads-drawer.md",
+      "sha256": "cd2cc66aeb3ab8fc091fd87ed6af08fc898c7b5440cd45c27ffe317ea2d076a2",
+      "bytes": 13708,
+      "lines": 336,
+      "routes": [
+        "/prebuilt-components/copilot-threads-drawer"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:52 GMT"
+    },
+    "/openai-agents-python/prebuilt-components/popup": {
+      "file": "openai-agents-python__prebuilt-components__popup.md",
+      "sha256": "d3b97b386a08905faabd07a70019b1948eab30fa69220d9d3f7456062a29a739",
+      "bytes": 2884,
+      "lines": 81,
+      "routes": [
+        "/prebuilt-components/popup"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:52 GMT"
+    },
+    "/openai-agents-python/prebuilt-components/sidebar": {
+      "file": "openai-agents-python__prebuilt-components__sidebar.md",
+      "sha256": "ac5a36b767f22155407a26011d97299ce797065df659e0955cf06081be4a52d2",
+      "bytes": 3101,
+      "lines": 83,
+      "routes": [
+        "/prebuilt-components/sidebar"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:52 GMT"
+    },
+    "/openai-agents-python/quickstart": {
+      "file": "openai-agents-python__quickstart.md",
+      "sha256": "9b8a19744b19e75109583939b0aefa51d56cccefb84fb74ec86c19bdce628215",
+      "bytes": 7447,
+      "lines": 228,
+      "routes": [
+        "/quickstart"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:52 GMT"
+    },
+    "/openai-agents-python/shared-state": {
+      "file": "openai-agents-python__shared-state.md",
+      "sha256": "d7180a36c8053c2a7ea50de8d405bd7e35f5a494064e5672f7c6e5147f6d4d80",
+      "bytes": 12244,
+      "lines": 330,
+      "routes": [
+        "/shared-state"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:52 GMT"
+    },
+    "/openai-agents-python/shared-state/agent-readonly": {
+      "file": "openai-agents-python__shared-state__agent-readonly.md",
+      "sha256": "1f18281cb83ff21e9eecb648e18e6679242a0d533391065e28a277d1cebd285a",
+      "bytes": 6693,
+      "lines": 201,
+      "routes": [
+        "/shared-state/agent-readonly"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:52 GMT"
+    },
+    "/openai-agents-python/shared-state/rendering-in-app": {
+      "file": "openai-agents-python__shared-state__rendering-in-app.md",
+      "sha256": "0b7b5af10244a6f5c366641bfe5f7c1c3d22f1d5adfc50f7f1b279d71a6dbe07",
+      "bytes": 5270,
+      "lines": 146,
+      "routes": [
+        "/shared-state/rendering-in-app"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:52 GMT"
+    },
+    "/openai-agents-python/shared-state/streaming": {
+      "file": "openai-agents-python__shared-state__streaming.md",
+      "sha256": "a79e378a8dc4301d398c71274d641e0802fc8a17a64f90fc0a072e91d20e8f8c",
+      "bytes": 8224,
+      "lines": 202,
+      "routes": [
+        "/shared-state/streaming"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:52 GMT"
+    },
+    "/openai-agents-python/voice": {
+      "file": "openai-agents-python__voice.md",
+      "sha256": "24f25df163a6d244f0e9af08dc7117795e037c4e876321da216b7d5cc933e1c3",
+      "bytes": 9022,
+      "lines": 199,
+      "routes": [
+        "/voice"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:52 GMT"
+    },
+    "/openai-agents-python/webmcp": {
+      "file": "openai-agents-python__webmcp.md",
+      "sha256": "257c2097becd88f781bb9fa0752d222f034e75f86bf2efb4f261909ea91dd10c",
+      "bytes": 7499,
+      "lines": 165,
+      "routes": [
+        "/webmcp"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Thu, 12 Nov 2026 17:29:52 GMT"
+    }
+  },
+  "sitemap": {
+    "fetchedAt": "2026-11-12T17:29:49.419Z",
+    "urlsUnderRoot": 162,
+    "knownUnmapped": [
+      "https://docs.copilotkit.ai/openai-agents-python/AG-UI-Streams",
+      "https://docs.copilotkit.ai/openai-agents-python/agent-config",
+      "https://docs.copilotkit.ai/openai-agents-python/agent-spec",
+      "https://docs.copilotkit.ai/openai-agents-python/agent-spec/human-in-the-loop",
+      "https://docs.copilotkit.ai/openai-agents-python/agent-spec/langgraph",
+      "https://docs.copilotkit.ai/openai-agents-python/agent-spec/quickstart",
+      "https://docs.copilotkit.ai/openai-agents-python/agent-spec/wayflow",
+      "https://docs.copilotkit.ai/openai-agents-python/agentic-chat-ui",
+      "https://docs.copilotkit.ai/openai-agents-python/agentic-protocols",
+      "https://docs.copilotkit.ai/openai-agents-python/agentic-protocols/a2a",
+      "https://docs.copilotkit.ai/openai-agents-python/agentic-protocols/ag-ui",
+      "https://docs.copilotkit.ai/openai-agents-python/agentic-protocols/ag-ui-middleware",
+      "https://docs.copilotkit.ai/openai-agents-python/agentic-protocols/mcp",
+      "https://docs.copilotkit.ai/openai-agents-python/auth",
+      "https://docs.copilotkit.ai/openai-agents-python/backend/ag-ui",
+      "https://docs.copilotkit.ai/openai-agents-python/backend/agent-runner",
+      "https://docs.copilotkit.ai/openai-agents-python/backend/copilot-runtime",
+      "https://docs.copilotkit.ai/openai-agents-python/backend/custom-ag-ui-agent",
+      "https://docs.copilotkit.ai/openai-agents-python/backend/custom-agent",
+      "https://docs.copilotkit.ai/openai-agents-python/backend/message-history",
+      "https://docs.copilotkit.ai/openai-agents-python/backend/runtime-endpoints",
+      "https://docs.copilotkit.ai/openai-agents-python/backend/self-managed-agents",
+      "https://docs.copilotkit.ai/openai-agents-python/build-with-agents",
+      "https://docs.copilotkit.ai/openai-agents-python/built-in-agent",
+      "https://docs.copilotkit.ai/openai-agents-python/cli",
+      "https://docs.copilotkit.ai/openai-agents-python/community-frameworks",
+      "https://docs.copilotkit.ai/openai-agents-python/concepts/architecture",
+      "https://docs.copilotkit.ai/openai-agents-python/concepts/generative-ui-overview",
+      "https://docs.copilotkit.ai/openai-agents-python/concepts/oss-vs-enterprise",
+      "https://docs.copilotkit.ai/openai-agents-python/concepts/which-hook",
+      "https://docs.copilotkit.ai/openai-agents-python/contributing/code-contributions",
+      "https://docs.copilotkit.ai/openai-agents-python/contributing/code-contributions/package-linking",
+      "https://docs.copilotkit.ai/openai-agents-python/contributing/docs-contributions",
+      "https://docs.copilotkit.ai/openai-agents-python/cookbook",
+      "https://docs.copilotkit.ai/openai-agents-python/cookbook/angular-adk-agentic-app",
+      "https://docs.copilotkit.ai/openai-agents-python/cookbook/arcade",
+      "https://docs.copilotkit.ai/openai-agents-python/cookbook/claude-managed-agents",
+      "https://docs.copilotkit.ai/openai-agents-python/cookbook/daytona",
+      "https://docs.copilotkit.ai/openai-agents-python/cookbook/google-antigravity",
+      "https://docs.copilotkit.ai/openai-agents-python/cookbook/jev-generative-ui",
+      "https://docs.copilotkit.ai/openai-agents-python/cookbook/manufact",
+      "https://docs.copilotkit.ai/openai-agents-python/cookbook/openbox-governed-copilotkit",
+      "https://docs.copilotkit.ai/openai-agents-python/cookbook/oracle-agent-spec-memory",
+      "https://docs.copilotkit.ai/openai-agents-python/deepagents",
+      "https://docs.copilotkit.ai/openai-agents-python/deploy/agentcore",
+      "https://docs.copilotkit.ai/openai-agents-python/deploy/aws-lambda",
+      "https://docs.copilotkit.ai/openai-agents-python/deploy/langsmith",
+      "https://docs.copilotkit.ai/openai-agents-python/examples",
+      "https://docs.copilotkit.ai/openai-agents-python/faq",
+      "https://docs.copilotkit.ai/openai-agents-python/generative-ui",
+      "https://docs.copilotkit.ai/openai-agents-python/generative-ui/a2ui",
+      "https://docs.copilotkit.ai/openai-agents-python/generative-ui/components/standard-catalog",
+      "https://docs.copilotkit.ai/openai-agents-python/generative-ui/display",
+      "https://docs.copilotkit.ai/openai-agents-python/generative-ui/frontend-cards",
+      "https://docs.copilotkit.ai/openai-agents-python/generative-ui/interactive",
+      "https://docs.copilotkit.ai/openai-agents-python/headless",
+      "https://docs.copilotkit.ai/openai-agents-python/human-in-the-loop",
+      "https://docs.copilotkit.ai/openai-agents-python/inspector",
+      "https://docs.copilotkit.ai/openai-agents-python/intelligence/analytics",
+      "https://docs.copilotkit.ai/openai-agents-python/intelligence/bring-your-own-thread-system",
+      "https://docs.copilotkit.ai/openai-agents-python/intelligence/capture-interactions",
+      "https://docs.copilotkit.ai/openai-agents-python/intelligence/captured-data",
+      "https://docs.copilotkit.ai/openai-agents-python/intelligence/channels",
+      "https://docs.copilotkit.ai/openai-agents-python/intelligence/headless-ui",
+      "https://docs.copilotkit.ai/openai-agents-python/intelligence/intelligence-platform",
+      "https://docs.copilotkit.ai/openai-agents-python/intelligence/learned-skills",
+      "https://docs.copilotkit.ai/openai-agents-python/intelligence/managed-intelligence-platform",
+      "https://docs.copilotkit.ai/openai-agents-python/intelligence/memories",
+      "https://docs.copilotkit.ai/openai-agents-python/intelligence/overview",
+      "https://docs.copilotkit.ai/openai-agents-python/intelligence/plans",
+      "https://docs.copilotkit.ai/openai-agents-python/intelligence/quickstart",
+      "https://docs.copilotkit.ai/openai-agents-python/intelligence/self-hosting",
+      "https://docs.copilotkit.ai/openai-agents-python/intelligence/self-hosting-ecs",
+      "https://docs.copilotkit.ai/openai-agents-python/intelligence/self-hosting-local",
+      "https://docs.copilotkit.ai/openai-agents-python/intelligence/self-hosting-observability",
+      "https://docs.copilotkit.ai/openai-agents-python/intelligence/standalone-collector",
+      "https://docs.copilotkit.ai/openai-agents-python/intelligence/threads-explained",
+      "https://docs.copilotkit.ai/openai-agents-python/intelligence/trajectories",
+      "https://docs.copilotkit.ai/openai-agents-python/intelligence/trajectories-quickstart",
+      "https://docs.copilotkit.ai/openai-agents-python/intelligence/trajectories-reference",
+      "https://docs.copilotkit.ai/openai-agents-python/learning",
+      "https://docs.copilotkit.ai/openai-agents-python/migrate/1.10.X",
+      "https://docs.copilotkit.ai/openai-agents-python/migrate/1.8.2",
+      "https://docs.copilotkit.ai/openai-agents-python/migrate/ag-ui-1.0",
+      "https://docs.copilotkit.ai/openai-agents-python/migrate/v2",
+      "https://docs.copilotkit.ai/openai-agents-python/prebuilt-components",
+      "https://docs.copilotkit.ai/openai-agents-python/programmatic-control",
+      "https://docs.copilotkit.ai/openai-agents-python/reference/v2/hooks/useCapabilities",
+      "https://docs.copilotkit.ai/openai-agents-python/runtime-server-adapter",
+      "https://docs.copilotkit.ai/openai-agents-python/telemetry",
+      "https://docs.copilotkit.ai/openai-agents-python/threads-import",
+      "https://docs.copilotkit.ai/openai-agents-python/threads-lifecycle",
+      "https://docs.copilotkit.ai/openai-agents-python/troubleshooting/common-issues",
+      "https://docs.copilotkit.ai/openai-agents-python/troubleshooting/debug-mode",
+      "https://docs.copilotkit.ai/openai-agents-python/troubleshooting/error-debugging",
+      "https://docs.copilotkit.ai/openai-agents-python/troubleshooting/error-reference",
+      "https://docs.copilotkit.ai/openai-agents-python/troubleshooting/event-inspector",
+      "https://docs.copilotkit.ai/openai-agents-python/troubleshooting/hook-explorer",
+      "https://docs.copilotkit.ai/openai-agents-python/troubleshooting/inspector-dev-console",
+      "https://docs.copilotkit.ai/openai-agents-python/tutorials/ai-powered-textarea/next-steps",
+      "https://docs.copilotkit.ai/openai-agents-python/tutorials/ai-powered-textarea/overview",
+      "https://docs.copilotkit.ai/openai-agents-python/tutorials/ai-powered-textarea/step-1-checkout-repo",
+      "https://docs.copilotkit.ai/openai-agents-python/tutorials/ai-powered-textarea/step-2-setup-copilotkit",
+      "https://docs.copilotkit.ai/openai-agents-python/tutorials/ai-powered-textarea/step-3-copilot-textarea",
+      "https://docs.copilotkit.ai/openai-agents-python/tutorials/ai-powered-textarea/step-4-copilot-readable-state",
+      "https://docs.copilotkit.ai/openai-agents-python/tutorials/ai-todo-app/next-steps",
+      "https://docs.copilotkit.ai/openai-agents-python/tutorials/ai-todo-app/overview",
+      "https://docs.copilotkit.ai/openai-agents-python/tutorials/ai-todo-app/step-1-checkout-repo",
+      "https://docs.copilotkit.ai/openai-agents-python/tutorials/ai-todo-app/step-2-setup-copilotkit",
+      "https://docs.copilotkit.ai/openai-agents-python/tutorials/ai-todo-app/step-3-copilot-readable-state",
+      "https://docs.copilotkit.ai/openai-agents-python/tutorials/ai-todo-app/step-4-frontend-tools",
+      "https://docs.copilotkit.ai/openai-agents-python/tutorials/multi-conversation-chat",
+      "https://docs.copilotkit.ai/openai-agents-python/vs-code-extension",
+      "https://docs.copilotkit.ai/openai-agents-python/whats-new",
+      "https://docs.copilotkit.ai/openai-agents-python/whats-new/a2a-mcp-handshake",
+      "https://docs.copilotkit.ai/openai-agents-python/whats-new/a2ui-launch",
+      "https://docs.copilotkit.ai/openai-agents-python/whats-new/generative-ui-spec-support",
+      "https://docs.copilotkit.ai/openai-agents-python/whats-new/langgraph-deep-agents",
+      "https://docs.copilotkit.ai/openai-agents-python/whats-new/mcp-apps-support",
+      "https://docs.copilotkit.ai/openai-agents-python/whats-new/v1-50"
+    ]
+  }
+}

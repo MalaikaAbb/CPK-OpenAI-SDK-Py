@@ -1,0 +1,7 @@
+/* ── doc: theming prose block "Set variables in CSS" (verbatim) ──
+   Note: Next loads this stylesheet globally once the demo has been opened, so
+   the accent can leak onto other routes' standard components until a reload. */
+.a2ui-surface {
+  --a2ui-color-accent: #d97706;
+}
+/* ── end doc ── */

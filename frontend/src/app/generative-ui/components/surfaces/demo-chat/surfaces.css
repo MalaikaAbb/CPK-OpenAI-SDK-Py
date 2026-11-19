@@ -1,0 +1,5 @@
+/* ── doc: surfaces prose block "Scroll to the surface" CSS (verbatim) ── */
+[data-generative-ui-surface] {
+  scroll-margin-top: 6rem;
+}
+/* ── end doc ── */

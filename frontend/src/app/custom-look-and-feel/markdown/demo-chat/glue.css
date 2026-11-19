@@ -1,0 +1,12 @@
+/* Harness glue — NOT from the docs. The components-override snippet sets
+ * className="my-link" / "my-heading" and the page defines neither class.
+ * Loud on purpose, so it is obvious the override ran. */
+.my-link {
+  color: #c026d3;
+  text-decoration: underline wavy;
+}
+.my-heading {
+  border-left: 4px solid #c026d3;
+  padding-left: 0.5rem;
+  text-transform: uppercase;
+}

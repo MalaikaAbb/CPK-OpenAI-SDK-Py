@@ -1,0 +1,18 @@
+/* Harness glue — NOT from the docs. The printed bubbles use shadcn theme
+ * utilities (bg-muted, bg-primary, text-muted-foreground, …). This app has no
+ * shadcn theme, so Tailwind generates nothing for them; these rules give them
+ * values inside the demo only. */
+.headless-scope .bg-muted { background-color: #f1f5f9; }
+.headless-scope .text-muted-foreground { color: #64748b; }
+.headless-scope .text-foreground { color: #0f172a; }
+.headless-scope .bg-primary { background-color: #4285f4; }
+.headless-scope .text-primary-foreground { color: #ffffff; }
+.headless-scope .text-primary { color: #4285f4; }
+.headless-scope .bg-background { background-color: #ffffff; }
+.headless-scope .border-border { border-color: #e2e8f0; }
+@media (prefers-color-scheme: dark) {
+  .headless-scope .bg-muted { background-color: #1e293b; }
+  .headless-scope .text-foreground { color: #f1f5f9; }
+  .headless-scope .bg-background { background-color: #0f172a; }
+  .headless-scope .border-border { border-color: #334155; }
+}
